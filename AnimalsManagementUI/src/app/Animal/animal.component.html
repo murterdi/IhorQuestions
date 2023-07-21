@@ -1,0 +1,14 @@
+<h1>Farm Management - Animals</h1>
+
+<div>
+  <input [(ngModel)]="newAnimalName" placeholder="Enter animal name" />
+  <button (click)="addAnimal()">Add Animal</button>
+</div>
+
+<ul>
+  <li *ngFor="let animal of animals">
+    {{ animal.name }}
+    <button (click)="removeAnimal(animal.name)">Remove</button>
+  </li>
+</ul>
+<b>Test Success Full at 17:26</b>

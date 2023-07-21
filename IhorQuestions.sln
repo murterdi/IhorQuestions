@@ -7,11 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateMatrix", "Calculat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalManagementAPI", "AnimalManagementAPI\AnimalManagementAPI.csproj", "{64F12064-7622-46F1-B0AF-3BA2C6457110}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AnimalManagementUI", "AnimalManagementUI", "{6C9828F3-2F11-4F89-813B-08E98F24D41F}"
-	ProjectSection(SolutionItems) = preProject
-		HTMLPage1.html = HTMLPage1.html
-	EndProjectSection
-EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AnimalsManagementUI", "AnimalsManagementUI\AnimalsManagementUI.esproj", "{B24323FA-F514-4907-AB7E-785C2D685B6E}"
 EndProject
 Global
